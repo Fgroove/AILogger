@@ -63,8 +63,8 @@ python ai_agent.py
 * **《个人信息保护法》**：在数据离开内网域前完成隐私遮蔽。
 
 ## 👥 贡献与支持
-[![zhiaiyigeren](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/255247190?v=4)](https://github.com/zhiainiyiren)
-[![zhiaiyigeren](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/255259839?v=4)](https://github.com/tangsixin)
-[![zhiaiyigeren](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/255260094?v=4)](https://github.com/xiaowangshuibuxing)
+[![zhiaiyigeren](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/255247190?v=4&w=50&h=50&mask=circle)](https://github.com/zhiainiyiren)
+[![zhiaiyigeren](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/255259839?v=4&w=50&h=50&mask=circle)](https://github.com/tangsixin)
+[![zhiaiyigeren](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/255260094?v=4&w=50&h=50&mask=circle)](https://github.com/xiaowangshuibuxing)
 
 该项目最初为 **2025年安徽省职业院校技能大赛（信息安全管理与评估）** 设计。欢迎通过 Issue 提交反馈或参与功能优化。
