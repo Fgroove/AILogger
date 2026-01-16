@@ -9,7 +9,7 @@ import mask_iam
 import log_cleaner
 
 # ================= 配置区 =================
-dashscope.api_key = "sk-b704e41d9a5f482a8689c6416913bf5c"  # 替换为你的真实API-KEY
+dashscope.api_key = "sk-xxxxxxxxxxxxxxx"  # 替换为你的真实API-KEY
 MODEL_NAME = "qwen-plus"  # 推荐使用 plus 模型进行深度研判
 
 
@@ -103,4 +103,5 @@ class SecurityAgent:
 
 if __name__ == "__main__":
     agent = SecurityAgent()
+
     agent.run_pipeline()
